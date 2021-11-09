@@ -1,9 +1,18 @@
 from bs4 import BeautifulSoup
-import urllib.request
+import requests
+from requests.api import head
+
+headers = {
+    'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0',
+    }
+
+s = requests.Session()
+html = s.get(url='https://jobs.dou.ua/vacancies/?city=%D0%9A%D0%B8%D1%97%D0%B2&category=Python', headers=headers).text
 
 
-req = urllib.request.urlopen('https://jobs.dou.ua/vacancies/?city=%D0%9A%D0%B8%D1%97%D0%B2&category=Python')
-html = req.read()
+with open('index.html', 'w', encoding='utf-8') as file:
+    file.write(html)
 
 soup = BeautifulSoup(html, 'html.parser')
 
@@ -22,11 +31,8 @@ for i in vacancy:
         'href': href,
     })
 
-
-f = open('vacancy.txt', 'w', encoding='utf-8')
-i=1
-for item in res:
-    f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
-    i += 1
-
-f.close()
+with open('vacancy.txt', 'w', encoding='utf-8') as f:   
+    i=1
+    for item in res:
+        f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
+        i += 1
