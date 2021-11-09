@@ -1,0 +1,51 @@
+From dou.ua
+
+1. Junior Python Software Engineer (Scrapy)
+ Competera uses Big Data and Deep Learning to change the way retailers do pricing. We are known for both: cutting-edge math ’under the hood’ and for deep expertise in the pricing domain.
+ https://jobs.dou.ua/companies/competera/vacancies/117894/
+
+2. Python Developer (Automation)
+ Про проєкт Ми — Ajax Systems, розробник і виробник бездротових систем безпеки Ajax із можливостями розумного дому.
+ https://jobs.dou.ua/companies/ajax-systems/vacancies/187696/
+
+3. Data Engineer/Python Developer
+ Національна служба здоров’я України (НСЗУ) — центральний орган виконавчої влади, який трансформує систему охорони здоров’я, фінансуючи медичне обслуговування українців через контракти з більш ніж 3 000 закладів охорони здоров’я на території всієї України.
+ https://jobs.dou.ua/companies/nszu/vacancies/149728/
+
+4. Junior Python Developer in Test (Device)
+ Ajax Systems — розробник і виробник бездротових систем безпеки Ajax із можливостями розумного дому. Це 36 пристрої, мобільні та десктопні застосунки, серверна інфраструктура.
+ https://jobs.dou.ua/companies/ajax-systems/vacancies/170864/
+
+5. Strong Junior Python Developer
+ PokerMatch is one of the leading online poker rooms, founded in 2016.
+Today it has developed into a full-fledged iGaming platform with products such as poker and casinos.
+Our core philosophy is that poker is a sport that is reflected in our daily activities and work.
+ https://jobs.dou.ua/companies/pokermatch/vacancies/185700/
+
+6. Junior/Middle Python3
+ Работа с платежной инфраструктурой на основе интеграции с различными поставщиками платежей.
+ https://jobs.dou.ua/companies/city24/vacancies/156574/
+
+7. Automation QA Engineer (Python)
+ VOKI Games — студия по разработке мобильных игр, сплоченное геймдев-комьюнити и по совместительству совсем не тайный клуб любителей своей работы :) Всего за год наша игра Manor Matters покорила 27 миллионов сердец, а нас самих стало больше 500 человек!
+ https://jobs.dou.ua/companies/voki-gejms-ukraina/vacancies/166184/
+
+8. Junior Python Developer in Test (Apps)
+ Ajax Systems — розробник і виробник бездротових систем безпеки Ajax із можливостями розумного дому. Це 36 пристроїв, мобільні та десктопні застосунки, серверна інфраструктура.
+ https://jobs.dou.ua/companies/ajax-systems/vacancies/171506/
+
+9. Junior Software Developer (Functional Programming)
+ Надоели однотипные вакансии? Везде требуют опыт в обмен на скучные задачи? Хочешь шевелить мозгами и развиваться?
+ https://jobs.dou.ua/companies/intetics-co/vacancies/170774/
+
+10. Trainee Analyst (Python)
+ Hi👋
+
+We are looking for a talented Trainee Analyst (Python) who will help grow us quicker. The ideal candidate will have a strong analytical background — with a hunger to make products grow.
+ https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/184423/
+
+11. Python ML Engineer
+ Привіт, давай знайомитись! Ми команія robota.ua — онлайн-платформа з пошуку роботи в Україні. Ми є частиною європейського холдингу Grupa Pracuj Ltd і партнером міжнародної мережі The Network.
+ https://jobs.dou.ua/companies/rabota-ua/vacancies/184372/
+
+------------------------------------------------------------------------------------
