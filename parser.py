@@ -71,12 +71,12 @@ def main():
 
     with open('vacancy.txt', 'w', encoding='utf-8') as f:   
         i=1
-        f.write('\n\nFrom dou.ua\n\n')
+        f.write('\n\nFrom dou.ua (Python, < 1року, Київ)\n\n')
         for item in dou_vacancy:
             f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
             i += 1
         f.write('-'*50)
-        f.write('\n\nFrom djinni.co\n\n')
+        f.write('\n\nFrom djinni.co (Python, Київ, Без досвіду)\n\n')
         for item in djinni_vacancy:
             f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
             i += 1
