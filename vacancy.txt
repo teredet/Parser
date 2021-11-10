@@ -1,3 +1,5 @@
+
+
 From dou.ua
 
 1. Junior Python Software Engineer (Scrapy)
@@ -48,4 +50,110 @@ We are looking for a talented Trainee Analyst (Python) who will help grow us 
  Привіт, давай знайомитись! Ми команія robota.ua — онлайн-платформа з пошуку роботи в Україні. Ми є частиною європейського холдингу Grupa Pracuj Ltd і партнером міжнародної мережі The Network.
  https://jobs.dou.ua/companies/rabota-ua/vacancies/184372/
 
-------------------------------------------------------------------------------------
+--------------------------------------------------
+
+From djinni.co
+
+12. 
+Junior Application Developer
+
+ We are a Team of enthusiasts of Web Application Development. If you are interested in becoming a full-stack engineer and powering up your skills in Javascript/Typescript (React.js), Python, or mobile technologies we might be a fit for one another
+ https://djinni.co//jobs/333260-junior-application-developer/
+
+13. 
+Junior Python Developer in Test (Apps)
+
+ Ajax Systems — розробник і виробник бездротових систем безпеки Ajax із можливостями розумного дому. Це 36 пристроїв, мобільні та десктопні застосунки, серверна інфраструктура.
+ https://djinni.co//jobs/279686-junior-python-developer-in-test-apps-/
+
+14. 
+Python Developer
+
+ Right now we are looking for Python Developers. This position will be interesting for those people who are fond of the latest technologies and who like challenges. The position will help to develop your skill set and make you a competitive candidate at the market.
+ https://djinni.co//jobs/328886-python-developer/
+
+15. 
+Junior Web Application Developer
+
+ We are a Team of enthusiasts of Web Application Development. If you are interested in becoming a full-stack engineer and powering up your skills in Javascript/Typescript (React.js), Python, or mobile technologies we might be a fit for one another
+ https://djinni.co//jobs/187591-junior-web-application-developer/
+
+16. 
+Python Developer Intern
+
+ В Artellence мы занимаемся сбором информации из открытых источников - соцсетей, мессенджеров, госреестров. Данных у нас, наверное, больше всех в Украине, и человек на этой позиции будет развивать наши системы их передачи и обработки.
+ https://djinni.co//jobs/327397-python-developer-intern/
+
+17. 
+Software Engineer Intern (parsing)
+
+ В Artellence мы занимаемся сбором информации из открытых источников - соцсетей, мессенджеров, госреестров. Данных у нас, наверное, больше всех в Украине, и человек на этой позиции будет развивать наши системы их сбора и обработки.
+ https://djinni.co//jobs/327396-software-engineer-intern-parsing-/
+
+18. 
+Embedded Python test automation trainee
+
+ GlobalLogic is looking for Embedded Python test automation trainee, to expand the team of the Cisco project.
+ https://djinni.co//jobs/324428-embedded-python-test-automation-trainee/
+
+19. 
+Trainee Test Automation Engineer (Python) (IRC132925)
+
+ GlobalLogic Ukraine is inviting Trainee Test Automation Engineer (Python) to join its Kyiv office.
+ https://djinni.co//jobs/324025-trainee-test-automation-engineer-python-irc13/
+
+20. 
+Trainee Automation QA Engineer (Python)
+
+ We are looking for a candidate for the position of QA Automation Engineer (Python)!
+ https://djinni.co//jobs/290420-trainee-automation-qa-engineer-python-/
+
+21. 
+Trainee С++ Software Engineer
+
+ We are looking for a candidate for the position of Trainee С++ Software Engineer !
+ https://djinni.co//jobs/302313-trainee-s-software-engineer/
+
+22. 
+Software Developer Junior
+
+ Команда ENAVATE шукає талановитих Microsoft Dynamics 365 Business Central Software Developer (Intern) (Ukraine regions) з можливістю почати кар’єру у компанії, що є глобальним партнером Microsoft.
+ https://djinni.co//jobs/321468-software-developer-junior/
+
+23. 
+Intern Python developer
+
+ Наш заказчик является лидером рынка, занимающимся разработкой, производством и интеграцией высокопроизводительных аудиосистем, развлекательных, информационных и коммуникационных систем для автомобильной промышленности и послепродажного обслуживания. Проект посвящен производству и тестированию
+ https://djinni.co//jobs/319186-intern-python-developer/
+
+24. 
+Junior/Middle Data Engineer
+
+ В умовах масштабування OBRIO та процесів у команді, з’явилась потреба у Data Engineer, який приєднається до нашої команди і зможе проявити свій талант і технічні навички при побудові процесів збору, обробки, перевірки та міграції даних між різними джерелами.
+ https://djinni.co//jobs/302399-junior-middle-data-engineer/
+
+25. 
+Junior AQA Engineer (Junior Hiring Program)
+
+ The product we are working on is a highly secure over-the-air technology designed specifically for the automotive industry to deliver software and firmware updates to embedded devices.
+ https://djinni.co//jobs/317653-junior-aqa-engineer-junior-hiring-program-/
+
+26. 
+Intern Developer
+
+ Компания Itransition приглашает на бесплатную онлайн-стажировку «Промышленная разработка ПО» по направлениям:PHP.NETJavaRubyDevOpsJavaScript
+ https://djinni.co//jobs/268833-intern-developer/
+
+27. 
+Стажёр-программист
+
+ Компания Itransition приглашает на бесплатную онлайн-стажировку «Промышленная разработка ПО» по направлениям:PHP.NETJavaRubyJavaScriptDevOps
+ https://djinni.co//jobs/268839-stazhior-programmist/
+
+28. 
+Стажёр-программист
+
+ Компания Itransition приглашает на бесплатную онлайн-стажировку «Промышленная разработка ПО» по направлениям:PHP.NETJavaRubyJavaScriptDevOps
+ https://djinni.co//jobs/268839-stazhior-programmist/
+
+--------------------------------------------------
