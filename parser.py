@@ -48,17 +48,23 @@ def get_djinni_vacancy():
                 'href': href,
             })
 
-        return soup.find('ul', class_='pager').find_all('a')[-1].text
+        try: 
+            last_page = soup.find('ul', class_='pager').find_all('a')[-1].text
+        except Exception:
+            return 0 
+        else:
+            return last_page
     
     x = 1
     res = []
     page_url = 'https://djinni.co/jobs/keyword-python/kyiv/?exp_level=no_exp'
     while True:
-        if get_info_from_page(page_url) != 'наступна →':
+        if get_info_from_page(page_url) == 'наступна →':
+            x += 1
+            get_info_from_page(f'https://djinni.co/jobs/keyword-python/kyiv/?exp_level=no_exp&page={x}')
+            page_url = f'https://djinni.co/jobs/keyword-python/kyiv/?exp_level=no_exp&page={x}'
+        else:
             return res
-        x += 1
-        get_info_from_page(f'https://djinni.co/jobs/keyword-python/kyiv/?exp_level=no_exp&page={x}')
-        page_url = f'https://djinni.co/jobs/keyword-python/kyiv/?exp_level=no_exp&page={x}'
 
 
 def get_workua_vacancy(): 
