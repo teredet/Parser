@@ -92,37 +92,67 @@ def get_workua_vacancy():
     return res
 
 
+def get_rabotaua_vacancy():
+    html = get_html('https://rabota.ua/zapros/junior-python-developer/%D0%BA%D0%B8%D0%B5%D0%B2')
+    soup = BeautifulSoup(html, 'lxml')
+    vacancy = soup.find_all('div', class_='card-body')
+    
+    res = []
+
+    for i in vacancy:
+        title = i.find('h2', class_='card-title').find('a').get_text()
+        desc = i.find('div', class_='card-description').get_text(strip=True).replace('\r\n', '')
+        href = 'https://rabota.ua' + i.find('h2', class_='card-title').find('a').get('href')
+        res.append({
+            'title': title,
+            'desc': desc,
+            'href': href,
+        })
+
+    return res
+
 
 def main():
     dou_vacancy = get_dou_vacancy()
     djinni_vacancy = get_djinni_vacancy()
     workua_vacancy = get_workua_vacancy()
+    rabotaua_vacancy = get_rabotaua_vacancy()
 
     with open('vacancy.txt', 'w', encoding='utf-8') as f:   
+        strip = '-'*100 + '\n'
+
         i=1
-        f.write('-'*100 + '\n')
+        f.write(strip)
         f.write('From dou.ua (Python, < 1року, Київ)\n')
-        f.write('-'*100 + '\n')
+        f.write(strip)
         for item in dou_vacancy:
             f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
             i += 1
 
         i=1
-        f.write('-'*100 + '\n')
+        f.write(strip)
         f.write('From djinni.co (Python, Київ, Без досвіду)\n')
-        f.write('-'*100 + '\n')
+        f.write(strip)
         for item in djinni_vacancy:
             f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
             i += 1
 
         i=1
-        f.write('-'*100 + '\n')
+        f.write(strip)
         f.write('From work.ua (Python, Київ)\n')
-        f.write('-'*100 + '\n')
+        f.write(strip)
         for item in workua_vacancy:
             f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
             i += 1
-        f.write('-'*100 + '\n')
+        
+        i=1
+        f.write(strip)
+        f.write('From rabota.ua (Junior Python Developer, Київ)\n')
+        f.write(strip)
+        for item in rabotaua_vacancy:
+            f.write(f'{i}. {item["title"]}\n {item["desc"]}\n {item["href"]}\n\n')
+            i += 1
+        f.write(strip)
 
 
 if __name__ == '__main__':

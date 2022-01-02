@@ -25,7 +25,7 @@ git clone https://github.com/teredet/Kyvi-calculator
 ```
 
 # Features
-* At the moment, it turned out to implement the receipt of all vacancies upon request from the site djinni.co and work.ua.
+* At the moment, it turned out to implement the receipt of all vacancies upon request from the site djinni.co, work.ua, rabota.ua.
 * From the site dou.ua I managed to get only the last 20 vacancies.
 # Tech Stack
 * Python
