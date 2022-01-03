@@ -1,5 +1,5 @@
 # Vacancy parser<br />
-I wrote this program to monitor vacancies from different sites at the click of one button. The program takes information from the following sites: djinni.co, dou.ua, work.ua<br />
+I wrote this program to monitor vacancies from different sites at the click of one button. The program takes information from the following sites: djinni.co, dou.ua, work.ua, rabota.ua.<br />
 
 ![alt text](img/1.png)
 
